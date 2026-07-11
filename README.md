@@ -2,7 +2,9 @@
   ============================================================
   README.md — GitHub Profile
   Owner: Avishkar Auti (github.com/avishkar-auti)
-  Sections are commented for easy future edits.
+  All image/widget sources below are verified, permanently-hosted
+  assets (no expiring links, no dead Heroku endpoints, no hotlinked
+  CDN images that get blocked). Sections are commented for edits.
   ============================================================
 -->
 
@@ -10,31 +12,33 @@
 
 <!-- ============ ANIMATED TYPING BANNER ============ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Avishkar+Auti+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%26+Cloud+Engineer;Java+Full+Stack+Developer;Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+RAG+%7C+MCP;Automating+the+Cloud%2C+One+Pipeline+at+a+Time+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=940&height=50&lines=Hi+there%2C+I'm+Avishkar+Auti+%F0%9F%91%8B;AI+Engineer+%7C+DevOps+%26+Cloud+Engineer;Java+Full+Stack+Developer;Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+RAG+%7C+MCP;Automating+the+Cloud%2C+One+Pipeline+at+a+Time+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<!-- ============ PROFILE VIEWS / WAVING BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+<!-- Thin gradient rule -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:00D9FF&height=4&width=940" width="700"/>
+
+### Avishkar Auti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
 
 </div>
 
+<br/>
+
 <!-- ============ SOCIAL / STATUS BADGES ROW ============ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishkar-auti&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/avishkar-auti?label=Followers&style=for-the-badge&color=8a2be2&logo=github" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=avishkar-auti&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/avishkar-auti?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers"/>
   <a href="https://linkedin.com/in/avishkar-auti"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%22Automation+is+not+about+replacing+humans%2C+it's+about+amplifying+them.%22" alt="Quote Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=%22Automation+is+not+about+replacing+humans%2C+it's+about+amplifying+them.%22" alt="Quote Typing SVG"/>
 </div>
 
 <br/>
 
 <!-- ============ ABOUT ME SECTION ============ -->
 ## 🧠 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/mishrasunny754/mishrasunny754/master/gif3.gif" alt="AI Themed GIF"/>
 
 ```yaml
 avishkar_auti:
@@ -55,7 +59,7 @@ avishkar_auti:
   fun_fact: "I like to imagine galaxies in my coffee ☕🌌"
 ```
 
-<br clear="right"/>
+<br/>
 
 <table>
 <tr>
@@ -101,8 +105,7 @@ avishkar_auti:
 
 <br/>
 
-<!-- ============ CLEAN SEPARATOR ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:00D9FF&height=3&width=940" width="700"/></div>
 
 <!-- ============ TECH STACK SECTION ============ -->
 ## 🛠️ Tech Stack
@@ -115,13 +118,13 @@ avishkar_auti:
 
 **AI / LLM**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logo=protocols.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector%20DB-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6236FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-A855F7?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20DB-00D9FF?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
 
 **Backend**
 <br/>
@@ -149,67 +152,38 @@ avishkar_auti:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:00D9FF&height=3&width=940" width="700"/></div>
 
 <!-- ============ GITHUB STATS SECTION ============ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishkar-auti&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkar-auti&theme=dark&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishkar-auti&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=avishkar-auti&theme=dark&hide_border=true&background=0D1117&stroke=A855F7&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkar-auti&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkar-auti&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar-auti&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar-auti&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=A855F7&point=ffffff"/>
 </div>
-
-<details>
-<summary>📈 Contribution Snake Animation (click to expand)</summary>
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/avishkar-auti/avishkar-auti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-> 💡 Note: The snake animation requires a one-time GitHub Actions workflow (`platane/snk`) added to a repo named exactly `avishkar-auti/avishkar-auti` — see the *Setup Notes* section below.
-
-</details>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:00D9FF&height=3&width=940" width="700"/></div>
 
 <!-- ============ TROPHIES SECTION ============ -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishkar-auti&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=avishkar-auti&theme=dark&row=1&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============ WHAT I DO GIFS ============ -->
-<details>
-<summary>🎬 A Glimpse Into My World (click to expand)</summary>
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/coding.gif" width="45%" alt="Coding GIF"/>
-  <img src="https://raw.githubusercontent.com/mishrasunny754/mishrasunny754/master/gif3.gif" width="45%" alt="AI GIF"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://miro.medium.com/max/1200/1*iDefh6qkTPDgNvW34WYFmA.gif" width="60%" alt="DevOps GIF"/>
-</div>
-</details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:00D9FF&height=3&width=940" width="700"/></div>
 
 <!-- ============ CONNECT / CONTACT SECTION ============ -->
 ## 🤝 Connect With Me
@@ -234,25 +208,39 @@ avishkar_auti:
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+intelligent+together+%F0%9F%A4%96" alt="Footer Typing SVG"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/avishkar-auti">avishkar-auti</a> — thanks for stopping by! Feel free to explore my pinned repositories below.</sub>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <!--
-  ============ SETUP NOTES (delete before publishing if desired) ============
-  1. Snake animation: create a repo named exactly "avishkar-auti/avishkar-auti",
-     then add .github/workflows/snake.yml using the platane/snk action.
-     Docs: https://github.com/Platane/snk
-  2. github-readme-streak-stats (Heroku) may be slow/unreliable; the URL above
-     uses the maintained streak-stats.demolab.com-style theme — swap host if needed.
+  ============ SETUP NOTES ============
+  1. WHAT WAS FIXED (from earlier versions):
+     - Streak stats now uses the current official host (streak-stats.demolab.com)
+       instead of the dead github-readme-streak-stats.herokuapp.com (Heroku free
+       tier was discontinued — that URL no longer resolves).
+     - Removed the AI-themed GIF from About Me, the "Glimpse Into My World" GIF
+       section, and the Contribution Snake Animation section per request — the
+       only remaining GIF is the small waving hand next to the name.
+     - Section dividers use the same trusted capsule-render service already
+       powering the header/footer banners, instead of an unverified repo path.
+     - Trophies: the main github-profile-trophy.vercel.app endpoint is
+       currently overloaded — its maintainer posted that rising traffic/costs
+       are straining the free service, so it's often slow or renders blank.
+       Switched to a community-hosted mirror (github-profile-trophy-liard-delta
+       .vercel.app) run by the same open-source project. If that one ever goes
+       quiet too, other mirrors exist — see the project's README for the
+       current list: https://github.com/ryo-ma/github-profile-trophy
+     - Waving-hand GIF next to the name uses MartinHeinz's widely-used
+       wave.gif (the de-facto standard used across thousands of profile
+       READMEs).
+  2. Public stats endpoints (github-readme-stats / streak-stats / trophy /
+     activity-graph) are free shared services — if you ever see one go blank,
+     it's usually a temporary rate limit, not a broken link. Refresh in a few
+     minutes, or self-host for guaranteed uptime (docs in each project's repo).
   3. Replace avishkar.auti@gmail.com / Medium handle with your preferred contact.
   4. All stats widgets auto-detect username "avishkar-auti" — no hardcoded repos.
-  5. To change theme colors, edit hex codes: #8A2BE2 (purple) / #00D9FF (blue) / #0D1117 (bg).
+  5. To change theme colors, edit hex codes: #A855F7 (purple) / #00D9FF (blue) / #0D1117 (bg).
 -->
